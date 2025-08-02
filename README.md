@@ -1,6 +1,6 @@
 # NanoLimbo
 
-### 自动构建nanoLimbo.jar指南
+### 自动构建server.jar指南
 
 1：fork本项目
 
