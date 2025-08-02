@@ -50,6 +50,6 @@ jobs:
         with:
           files: server.jar
           tag_name: ${{ github.ref_name }}
-          name: "Velocity ${{ github.ref_name }}"
+          name: "NanoLimbo ${{ github.ref_name }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
